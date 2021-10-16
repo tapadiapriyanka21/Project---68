@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-color:beige;
+}
+#welcome{
+    background: linear-gradient(purple 0%,yellow 100%);
+}
+#profile{
+    width: 175px;
+    margin-bottom:50px;
+    border-radius: 50%;
+}
+#name{
+    font-family: cursive;
+    font-size: 30px;
+}
+.line{
+    height: 10px;
+    width: 80px;
+    background-color: black;
+    margin:8px auto; 
+}
+#intro{
+    font-size: 18px;
+    margin:1px 25px; 
+}
+.heading{
+  font-size: 50px;
+    font-weight: bold;
+}
+.article{
+    text-decoration: none;
+}
+#MyNavbarid{
+    position: sticky;
+    top: 0px;
+    z-index: 10;
+}
